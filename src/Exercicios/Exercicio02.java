@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*Faça um programa que receba dois números, calcule e mostre a divisão do primeiro pelo segundo. Sabe-se que o segundo número não pode ser
 zero, portanto, não é necessário se preocupar com isso neste exercício.*/
 
-public class Exercicio2 {
+public class Exercicio02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

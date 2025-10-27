@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
 
-public class Exercicio1 {
+public class Exercicio01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

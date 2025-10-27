@@ -4,7 +4,7 @@ import java.util.Scanner;
 /* Faça um programa que calcule e mostre a área de um triângulo. Sabe se que: Área = (base x altura) / 2. A base e altura devem ser informadas
 pelo usuário.  */
 
-public class Exercicio8 {
+public class Exercicio08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

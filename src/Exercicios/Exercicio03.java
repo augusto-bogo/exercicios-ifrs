@@ -5,7 +5,7 @@ import java.util.Scanner;
 /* Faça um programa que receba três notas de um estudante, calcule e  mostre a média aritmética entre elas (este exercício é similar ao exemplo
 mostrado a neste capítulo, mas leva em consideração três notas e não quatro). */
 
-public class Exercicio3 {
+public class Exercicio03 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

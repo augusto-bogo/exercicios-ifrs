@@ -6,7 +6,7 @@ import java.util.Scanner;
 gratificação de 5% sobre o salário base (que será acrescentado ao  salário) e paga imposto de 7% sobre este salário (o que será
 descontado do salário).  */
 
-public class Exercicio5 {
+public class Exercicio05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -6,7 +6,7 @@ import java.util.Scanner;
 exemplo, se o produto custa R$ 100,00, o novo preço será 100 menos  10% de cem, que é 100 x 10 / 100. Essa conta é igual a 10, ficando o
 novo preço R$ 90,00.  */
 
-public class Exercicio4 {
+public class Exercicio04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
